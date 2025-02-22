@@ -1,0 +1,18 @@
+SAMPLE TEST 2
+
+
+How many passwords would you like to generate? 2
+
+Please enter words and/or numbers to include in your password (comma-separated): coffee
+
+Please enter password length (min 6): 7
+
+Include lowercase letters? (yes/no): yes
+Include uppercase letters? (yes/no): yes
+Include numbers? (yes/no): yes
+Include symbols? (yes/no): yes
+
+Your new password 1: icfoeef
+Strength of this password: Very Weak
+Your new password 2: ceoYfef
+Strength of this password: Moderate

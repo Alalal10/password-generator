@@ -1,0 +1,22 @@
+SAMPLE TEST
+
+How many passwords would you like to generate? 4
+
+Please enter words and/or numbers to include in your password (comma-separated): Alina
+
+Please enter password length (min 6): 8
+
+Include lowercase letters? (yes/no): yes
+Include uppercase letters? (yes/no): no
+Include numbers? (yes/no): yes
+Include symbols? (yes/no): yes
+
+Your new password 1: ne6aiAjl
+Strength of this password: Strong
+Your new password 2: n>iaA^bl
+Strength of this password: Moderate
+Your new password 3: #annliA'
+Strength of this password: Moderate
+Your new password 4: n4Azla/i
+Strength of this password: Strong
+
